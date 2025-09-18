@@ -1,4 +1,5 @@
-
+## Name: Dhanuja M
+## Reg no.:212224230057
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -10,8 +11,11 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/d0cb1364-47f0-4a3b-b18e-c2baef7f3749)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/4988a1b4-8849-4902-b766-24965e4c1eea)
 
 
 
@@ -46,8 +50,12 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![image](https://github.com/user-attachments/assets/5c957216-b1c7-4584-9ab2-d4b2bed60527)
+
+
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/10794c2c-8361-45bd-9ce6-3a59f33337bd)
 
 
 
@@ -81,7 +89,17 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/3b9f22bb-f70b-460d-abd5-ad856668bf52)
+
+
+
+
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/20eee4d6-3295-458e-84e2-99a38762d90e)
+
+
+
 
 
 
@@ -112,7 +130,11 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/c0b96cc3-2ccb-4dee-a0ce-df4100da337c)
+
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/1659edda-f87d-49fb-97e0-dcbd0e7e8158)
 
 
 
@@ -148,7 +170,16 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 10.	End
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/5ea9f706-e944-494d-b2c4-d6219313773c)
+
+
+
+
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/fbac9c24-8afd-4159-b63b-e126f7e9d232)
+
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
